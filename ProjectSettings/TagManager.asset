@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Emitter Source
+  - Beam
+  - Obstacle
+  - Game Manager
+  - Player Start Position
+  - Z Camera
+  - Y Camera
+  - Resume Button
+  - Level Select Button
+  - Options Button
+  - Quit Button
+  - Level Select Panel
+  - Options Panel
+  - Level Transition Fade Canvas
+  - Level Name Display Text
+  - Diffraction Zone
+  - Special Level UI
+  - Levels
+  - Main Menu
+  - Camera Positions
+  - Music Source
+  - New Game Panel
+  - Game End Canvas
+  - Camera Start Pos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
